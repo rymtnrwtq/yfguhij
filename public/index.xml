@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BorozdovSite</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on BorozdovSite</description>
+    <image>
+      <title>BorozdovSite</title>
+      <url>http://localhost:1313/photo.jpg</url>
+      <link>http://localhost:1313/photo.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 May 2025 21:10:12 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test3</title>
+      <link>http://localhost:1313/post/test3/</link>
+      <pubDate>Thu, 01 May 2025 21:10:12 +0700</pubDate>
+      <guid>http://localhost:1313/post/test3/</guid>
+      <description>&lt;p&gt;поиск&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>поиск</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>My 1st post</title>
+      <link>http://localhost:1313/post/test1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/post/test1/</guid>
+      <description>Desc Text.</description>
+      <content:encoded><![CDATA[<h1 id="name">name</h1>
+<h2 id="jdjdj">jdjdj</h2>
+<p>#ss</p>
+<h3 id="kdlkdk">kdlkdk</h3>
+<h2 id="fkfkf">fkfkf</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>My 2st post</title>
+      <link>http://localhost:1313/post/test2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/post/test2/</guid>
+      <description>Desc Text.</description>
+      <content:encoded><![CDATA[<p>тест</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
